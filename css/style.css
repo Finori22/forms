@@ -44,12 +44,6 @@ form {
   border-radius: 6px;
 }
 
-/* .form_input {
-  width: 100%;
-  padding: 0 30px;
-  font-size: 18px;
-} */
-
 /* input flex set */
 .inputs {
   display: flex;
@@ -99,7 +93,6 @@ form {
   transform: translate(-50%, -50%);
 }
 
-/* //rectangles */
 .register_heading {
   font-family: Roboto;
   font-style: normal;
