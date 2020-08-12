@@ -99,6 +99,11 @@ form {
 .agree_container {
   margin: 20px 36px 20px 18px;
 }
+
+.agree_container p {
+  color: #C4C4C4;
+}
+
 .agree_box {
   margin: 0 10px 0 8px;
   transform: scale(1.5);
